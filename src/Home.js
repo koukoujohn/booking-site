@@ -46,7 +46,7 @@ function Home() {
             />
             </div>
             {/* end of demo cards */}
-            <div className="home__section">
+            {/* <div className="home__section">
                 <Card />
                 <Card />
                 <Card />
@@ -55,7 +55,7 @@ function Home() {
                 <Card />
                 <Card />
                 <Card />
-            </div>
+            </div> */}
         </div>
     )
 }
